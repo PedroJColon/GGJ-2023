@@ -917,3 +917,401 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.01-00.09.44:428][661]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2023.02.01-00.09.51:008][897]SourceControl: Source control is disabled
 [2023.02.01-00.09.51:008][897]LogSlate: Window 'Source Control Login' being destroyed
+[2023.02.01-00.19.53:540][220]LogRenderer: Reallocating scene render targets to support 1380x308 Format 10 NumSamples 1 (Frame:2716).
+[2023.02.01-00.19.53:572][221]LogRenderer: Reallocating scene render targets to support 1380x312 Format 10 NumSamples 1 (Frame:2718).
+[2023.02.01-00.19.53:591][222]LogRenderer: Reallocating scene render targets to support 1380x324 Format 10 NumSamples 1 (Frame:2720).
+[2023.02.01-00.19.53:613][223]LogRenderer: Reallocating scene render targets to support 1380x340 Format 10 NumSamples 1 (Frame:2722).
+[2023.02.01-00.19.53:632][224]LogRenderer: Reallocating scene render targets to support 1380x348 Format 10 NumSamples 1 (Frame:2724).
+[2023.02.01-00.19.53:650][225]LogRenderer: Reallocating scene render targets to support 1380x360 Format 10 NumSamples 1 (Frame:2726).
+[2023.02.01-00.19.53:669][226]LogRenderer: Reallocating scene render targets to support 1380x368 Format 10 NumSamples 1 (Frame:2728).
+[2023.02.01-00.19.53:687][227]LogRenderer: Reallocating scene render targets to support 1380x372 Format 10 NumSamples 1 (Frame:2730).
+[2023.02.01-00.19.53:706][228]LogRenderer: Reallocating scene render targets to support 1380x376 Format 10 NumSamples 1 (Frame:2732).
+[2023.02.01-00.19.53:725][229]LogRenderer: Reallocating scene render targets to support 1380x380 Format 10 NumSamples 1 (Frame:2734).
+[2023.02.01-00.19.53:742][230]LogRenderer: Reallocating scene render targets to support 1380x384 Format 10 NumSamples 1 (Frame:2736).
+[2023.02.01-00.19.53:760][231]LogRenderer: Reallocating scene render targets to support 1380x388 Format 10 NumSamples 1 (Frame:2738).
+[2023.02.01-00.19.53:784][232]LogRenderer: Reallocating scene render targets to support 1380x392 Format 10 NumSamples 1 (Frame:2740).
+[2023.02.01-00.19.53:813][233]LogRenderer: Reallocating scene render targets to support 1380x396 Format 10 NumSamples 1 (Frame:2742).
+[2023.02.01-00.19.53:834][234]LogRenderer: Reallocating scene render targets to support 1380x408 Format 10 NumSamples 1 (Frame:2744).
+[2023.02.01-00.19.53:854][235]LogRenderer: Reallocating scene render targets to support 1380x424 Format 10 NumSamples 1 (Frame:2746).
+[2023.02.01-00.19.53:874][236]LogRenderer: Reallocating scene render targets to support 1380x444 Format 10 NumSamples 1 (Frame:2748).
+[2023.02.01-00.19.53:893][237]LogRenderer: Reallocating scene render targets to support 1380x460 Format 10 NumSamples 1 (Frame:2750).
+[2023.02.01-00.19.53:914][238]LogRenderer: Reallocating scene render targets to support 1380x480 Format 10 NumSamples 1 (Frame:2752).
+[2023.02.01-00.19.53:934][239]LogRenderer: Reallocating scene render targets to support 1380x496 Format 10 NumSamples 1 (Frame:2754).
+[2023.02.01-00.19.53:953][240]LogRenderer: Reallocating scene render targets to support 1380x508 Format 10 NumSamples 1 (Frame:2756).
+[2023.02.01-00.19.53:973][241]LogRenderer: Reallocating scene render targets to support 1380x520 Format 10 NumSamples 1 (Frame:2758).
+[2023.02.01-00.19.54:000][242]LogRenderer: Reallocating scene render targets to support 1380x528 Format 10 NumSamples 1 (Frame:2760).
+[2023.02.01-00.19.54:027][243]LogRenderer: Reallocating scene render targets to support 1380x544 Format 10 NumSamples 1 (Frame:2762).
+[2023.02.01-00.19.54:046][244]LogRenderer: Reallocating scene render targets to support 1380x556 Format 10 NumSamples 1 (Frame:2764).
+[2023.02.01-00.19.54:065][245]LogRenderer: Reallocating scene render targets to support 1380x560 Format 10 NumSamples 1 (Frame:2766).
+[2023.02.01-00.19.54:084][246]LogRenderer: Reallocating scene render targets to support 1380x568 Format 10 NumSamples 1 (Frame:2768).
+[2023.02.01-00.19.54:104][247]LogRenderer: Reallocating scene render targets to support 1380x572 Format 10 NumSamples 1 (Frame:2770).
+[2023.02.01-00.19.54:124][248]LogRenderer: Reallocating scene render targets to support 1380x580 Format 10 NumSamples 1 (Frame:2772).
+[2023.02.01-00.19.54:144][249]LogRenderer: Reallocating scene render targets to support 1380x588 Format 10 NumSamples 1 (Frame:2774).
+[2023.02.01-00.19.54:163][250]LogRenderer: Reallocating scene render targets to support 1380x592 Format 10 NumSamples 1 (Frame:2776).
+[2023.02.01-00.19.54:182][251]LogRenderer: Reallocating scene render targets to support 1380x596 Format 10 NumSamples 1 (Frame:2778).
+[2023.02.01-00.19.54:202][252]LogRenderer: Reallocating scene render targets to support 1380x604 Format 10 NumSamples 1 (Frame:2780).
+[2023.02.01-00.19.54:238][254]LogRenderer: Reallocating scene render targets to support 1380x608 Format 10 NumSamples 1 (Frame:2784).
+[2023.02.01-00.19.54:343][265]LogRenderer: Reallocating scene render targets to support 1380x612 Format 10 NumSamples 1 (Frame:2788).
+[2023.02.01-00.19.54:403][268]LogRenderer: Reallocating scene render targets to support 1380x616 Format 10 NumSamples 1 (Frame:2794).
+[2023.02.01-00.20.09:608][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.02.01-00.20.09:610][954]Cmd: MAP LOAD FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.01-00.20.09:629][954]LightingResults: New page: Lighting Build
+[2023.02.01-00.20.09:630][954]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2023.02.01-00.20.09:630][954]LoadErrors: New page: Loading map: Test.umap
+[2023.02.01-00.20.09:631][954]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-00.20.09:631][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.20.09:632][954]MapCheck: New page: Map Check
+[2023.02.01-00.20.09:632][954]LightingResults: New page: Lighting Build
+[2023.02.01-00.20.09:651][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-00.20.09:654][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.01-00.20.09:660][954]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2023.02.01-00.20.09:661][954]LogAIModule: Creating AISystem for world Test
+[2023.02.01-00.20.09:687][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.01-00.20.09:710][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.01-00.20.09:729][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.01-00.20.09:729][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2023.02.01-00.20.09:729][954]LogFileHelpers: Loading map 'Test' took 0.119
+[2023.02.01-00.20.09:730][954]LogSlate: Window 'Open Level' being destroyed
+[2023.02.01-00.20.40:666][541]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.01-00.20.49:529][575]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.20.49:597][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.02.01-00.20.49:617][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.20.49:624][575]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharA2F0CDD944E7A8825E8D0D9A3102E2DE.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.20.49:642][575]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.20.49:642][575]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.21.35:819][489]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-00.21.35:819][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.21.35:876][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.22.51:755][140]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.22.51:840][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.02.01-00.22.51:872][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.22.51:876][140]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerControllerDD3FE0CD45B04965AD0C3DBD0A788D6D.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.22.51:891][140]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.22.51:891][140]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.23.35:631][207]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.23.35:672][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.02.01-00.23.35:693][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.23.35:698][207]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerController95538CC94E4C3B7A91D25388D915CFDC.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.23.35:709][207]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.23.35:709][207]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.23.55:208][466]LogSlate: Took 0.021746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.01-00.24.13:978][651]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.24.14:019][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.02.01-00.24.14:049][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.24.14:055][651]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharD8D04BC34DD51F6B62476A89888DDC95.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.24.14:068][651]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.24.14:068][651]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.24.34:949][ 48]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.24.34:972][ 48]LogBlueprint: Error: [AssetLog] D:\Courtlands Personal Games\GitHubRep\GGJ-2023\Content\Characters\BP_PlayerChar.uasset: [Compiler] The property associated with  Player Char  could not be found in '/Game/Characters/BP_PlayerChar.BP_PlayerChar_C'
+[2023.02.01-00.24.35:014][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.02.01-00.24.35:057][ 48]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.01-00.24.40:949][732]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.24.40:991][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.02.01-00.24.41:025][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.24.41:030][732]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerController232961634FD703B76141F4B36974BDDD.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.24.41:042][732]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.24.41:042][732]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.24.42:649][907]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.24.42:691][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.02.01-00.24.42:710][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.24.42:717][907]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharFBC9534C4AE7DBABA08B318D33AD90C9.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.24.42:729][907]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.24.42:729][907]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.25.31:138][600]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.25.31:182][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.02.01-00.25.31:207][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.25.31:215][600]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar3294F5DE470A3D49B1C81DA2E2881B40.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.25.31:227][600]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.25.31:227][600]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.25.39:052][491]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.25.39:095][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.02.01-00.25.39:116][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.25.39:124][491]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharF6C5EDBD4078A90005D6D59C5FFBE3AE.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.25.39:136][491]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.25.39:136][491]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.26.33:389][797]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.26.33:432][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.02.01-00.26.33:451][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.26.33:460][797]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar05EA4D064301734EF62974A7DE1C01AF.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.26.33:472][797]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.26.33:473][797]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.26.43:332][905]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.26.43:373][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.02.01-00.26.43:394][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.26.43:400][905]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerController5F7D44FF4CE0DCC30A4A14A993FB4B5D.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.26.43:411][905]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.26.43:411][905]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.27.06:354][539]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.27.06:400][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.02.01-00.27.06:435][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.27.06:444][539]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar8D82FD6A441F8EBC13AE339974902CCF.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.27.06:458][539]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.27.06:458][539]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.27.22:454][363]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.27.22:496][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.02.01-00.27.22:533][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.27.22:540][363]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerControllerF79DB20B4687284790E5C6B45511E1E3.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.27.22:551][363]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.27.22:551][363]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.27.42:841][705]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.27.42:887][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.02.01-00.27.42:921][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.27.42:931][705]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar813ED3EC4CD7B4BAE47C5DB9601A8C15.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.27.42:946][705]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.27.42:946][705]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.28.29:078][923]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.28.29:123][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.02.01-00.28.29:148][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.28.29:158][923]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar0F8023B941ED37D32C00C8AECDACA0DB.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.28.29:171][923]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.28.29:172][923]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.29.41:341][163]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.29.41:386][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.02.01-00.29.41:420][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.29.41:444][163]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharD14ED7E2410F33C80092E9893E5735E6.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.29.41:460][163]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.29.41:460][163]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.30.11:444][664]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.30.11:491][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.02.01-00.30.11:516][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.30.11:526][664]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar7DAB516142DC40DA8C2DDC9BE534F7B8.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.30.11:538][664]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.30.11:538][664]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.31.05:448][  6]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.31.05:450][  6]LogBlueprint: Warning: [AssetLog] D:\Courtlands Personal Games\GitHubRep\GGJ-2023\Content\Characters\BP_PlayerChar.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2023.02.01-00.31.05:494][  6]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2023.02.01-00.31.36:769][718]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.31.36:771][718]LogBlueprint: Warning: [AssetLog] D:\Courtlands Personal Games\GitHubRep\GGJ-2023\Content\Characters\BP_PlayerChar.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2023.02.01-00.31.36:814][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.02.01-00.33.25:770][164]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.33.25:773][164]LogBlueprint: Warning: [AssetLog] D:\Courtlands Personal Games\GitHubRep\GGJ-2023\Content\Characters\BP_PlayerChar.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2023.02.01-00.33.25:834][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.02.01-00.33.37:279][457]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.33.37:324][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.02.01-00.33.37:352][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.33.37:363][457]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharE6FF8463403997D0A3072F8A8D2B92E6.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.33.37:378][457]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.33.37:378][457]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.34.06:467][700]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.34.06:513][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.02.01-00.34.06:545][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.34.06:556][700]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar681F2CB243041A7E91DB9D980C0F831F.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.34.06:568][700]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.34.06:568][700]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.36.18:272][952]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.36.18:324][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.02.01-00.36.18:359][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.36.18:370][952]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharF353ECFC409ABFC9C0BDCD92AC28799D.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.36.18:382][952]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.36.18:382][952]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.37.37:406][ 30]BlueprintLog: New page: Compile BP_PlayerController
+[2023.02.01-00.37.37:452][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.02.01-00.37.37:486][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_PlayerController" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset" SILENT=true
+[2023.02.01-00.37.37:492][ 30]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerController5CFAE7CA4572978C6B6D7C845A839C10.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_PlayerController.uasset'
+[2023.02.01-00.37.37:506][ 30]AssetCheck: New page: Asset Save: BP_PlayerController
+[2023.02.01-00.37.37:506][ 30]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_PlayerController.BP_PlayerController
+[2023.02.01-00.37.51:377][630]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.01-00.37.56:235][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.02.01-00.38.09:102][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Levels/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.01-00.38.09:130][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.02.01-00.38.09:135][584]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/Test71D7C6A34D0C5A4DD24EBDB05E41F4AD.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Levels/Test.umap'
+[2023.02.01-00.38.09:157][584]AssetCheck: New page: Asset Save: Test
+[2023.02.01-00.38.09:157][584]LogContentValidation: Display: Validating World /Game/Levels/Test.Test
+[2023.02.01-00.38.45:532][680]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.38.45:592][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.02.01-00.38.45:620][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.38.45:632][680]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerChar3C0C8908403AC9114A5F9DB01312BAD7.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.38.45:643][680]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.38.45:643][680]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.38.58:184][120]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BP_GMPotato.BP_GMPotato
+[2023.02.01-00.39.01:620][481]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.01-00.39.14:017][905]BlueprintLog: New page: Compile BP_GMPotato
+[2023.02.01-00.39.14:063][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.02.01-00.39.14:098][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/BP_GMPotato" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_GMPotato.uasset" SILENT=true
+[2023.02.01-00.39.14:101][905]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_GMPotatoF7EFBB094EA6193AB750FD84769E6C85.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Core/BP_GMPotato.uasset'
+[2023.02.01-00.39.14:112][905]AssetCheck: New page: Asset Save: BP_GMPotato
+[2023.02.01-00.39.14:112][905]LogContentValidation: Display: Validating Blueprint /Game/Core/BP_GMPotato.BP_GMPotato
+[2023.02.01-00.39.22:135][823]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.01-00.39.22:199][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-00.39.22:217][823]PIE: New page: PIE session: Test (Jan 31, 2023, 12:39:22 PM)
+[2023.02.01-00.39.22:260][823]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.01-00.39.22:277][823]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.01-00.39.22:278][823]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.39.22:297][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018714s)
+[2023.02.01-00.39.22:552][823]LogAIModule: Creating AISystem for world Test
+[2023.02.01-00.39.22:573][823]LogPlayLevel: PIE: World Init took: (0.274862s)
+[2023.02.01-00.39.22:573][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.294055s)
+[2023.02.01-00.39.22:602][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.02.01-00.39.22:605][823]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.01-00.39.22:605][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.01-00.39.22:605][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-00.39.22:605][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-00.39.22:605][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-00.39.22:606][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-00.39.22:606][823]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 1: FrontRight
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 4: BackLeft
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 5: BackRight
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 6: SideLeft
+[2023.02.01-00.39.22:610][823]LogAudioMixer: Display: 7: SideRight
+[2023.02.01-00.39.22:758][823]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO SE USB Gaming Headset)
+[2023.02.01-00.39.22:759][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-00.39.22:759][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-00.39.22:759][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-00.39.22:760][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.01-00.39.22:760][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.01-00.39.22:760][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.01-00.39.22:761][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.01-00.39.22:761][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.01-00.39.22:761][823]LogInit: FAudioDevice initialized.
+[2023.02.01-00.39.22:761][823]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test'.
+[2023.02.01-00.39.22:796][823]LogLoad: Game class is 'BP_GMPotato_C'
+[2023.02.01-00.39.22:897][823]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.01.31-18.39.22
+[2023.02.01-00.39.22:923][823]LogWorld: Bringing up level for play took: 0.025703
+[2023.02.01-00.39.22:924][823]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.02.01-00.39.23:142][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.02.01-00.39.23:183][823]PIE: Server logged in
+[2023.02.01-00.39.23:186][823]PIE: Play in editor total start time 1.024 seconds.
+[2023.02.01-00.39.34:715][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.39.34:715][131]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.39.34:716][131]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-00.39.34:716][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.39.34:724][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-00.39.34:745][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.39.34:776][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.39.34:781][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.39.34:782][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.39.34:812][131]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2023.02.01-00.39.34:841][132]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.01-00.40.16:280][895]BlueprintLog: New page: Compile BP_PlayerChar
+[2023.02.01-00.40.16:390][895]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.02.01-00.40.16:446][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_PlayerChar" FILE="../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset" SILENT=true
+[2023.02.01-00.40.16:461][895]LogSavePackage: Moving '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Saved/BP_PlayerCharCEA754CB4254CBBB75FF4CB9928E3490.tmp' to '../../../../../Courtlands Personal Games/GitHubRep/GGJ-2023/Content/Characters/BP_PlayerChar.uasset'
+[2023.02.01-00.40.16:474][895]AssetCheck: New page: Asset Save: BP_PlayerChar
+[2023.02.01-00.40.16:474][895]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_PlayerChar.BP_PlayerChar
+[2023.02.01-00.40.19:117][191]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.01-00.40.19:122][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-00.40.19:122][191]PIE: New page: PIE session: Test (Jan 31, 2023, 12:40:19 PM)
+[2023.02.01-00.40.19:156][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.40.19:157][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001020s)
+[2023.02.01-00.40.19:158][191]LogAIModule: Creating AISystem for world Test
+[2023.02.01-00.40.19:158][191]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.02.01-00.40.19:158][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.002105s)
+[2023.02.01-00.40.19:195][191]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2023.02.01-00.40.19:196][191]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.01-00.40.19:196][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.01-00.40.19:196][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-00.40.19:197][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-00.40.19:197][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-00.40.19:197][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-00.40.19:197][191]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 1: FrontRight
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 4: BackLeft
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 5: BackRight
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 6: SideLeft
+[2023.02.01-00.40.19:201][191]LogAudioMixer: Display: 7: SideRight
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO SE USB Gaming Headset)
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.01-00.40.19:351][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.01-00.40.19:351][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.01-00.40.19:353][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.01-00.40.19:353][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.01-00.40.19:353][191]LogInit: FAudioDevice initialized.
+[2023.02.01-00.40.19:353][191]LogAudio: Display: Audio Device (ID: 3) registered with world 'Test'.
+[2023.02.01-00.40.19:364][191]LogLoad: Game class is 'BP_GMPotato_C'
+[2023.02.01-00.40.19:365][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.01.31-18.40.19
+[2023.02.01-00.40.19:365][191]LogWorld: Bringing up level for play took: 0.000382
+[2023.02.01-00.40.19:366][191]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.02.01-00.40.19:967][191]PIE: Server logged in
+[2023.02.01-00.40.19:968][191]PIE: Play in editor total start time 0.847 seconds.
+[2023.02.01-00.40.27:886][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.40.27:886][134]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.40.27:886][134]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-00.40.27:886][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.40.27:893][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-00.40.27:911][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.40.27:941][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-00.40.27:941][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.40.27:943][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.40.27:946][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.40.27:951][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.02.01-00.40.27:976][135]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.01-00.40.46:737][302]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.01-00.40.46:742][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-00.40.46:742][302]PIE: New page: PIE session: Test (Jan 31, 2023, 12:40:46 PM)
+[2023.02.01-00.40.46:774][302]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.40.46:776][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001034s)
+[2023.02.01-00.40.46:777][302]LogAIModule: Creating AISystem for world Test
+[2023.02.01-00.40.46:777][302]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2023.02.01-00.40.46:777][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.002189s)
+[2023.02.01-00.40.46:812][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.02.01-00.40.46:815][302]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.01-00.40.46:815][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.01-00.40.46:815][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-00.40.46:816][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-00.40.46:816][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-00.40.46:816][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-00.40.46:816][302]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 1: FrontRight
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 4: BackLeft
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 5: BackRight
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 6: SideLeft
+[2023.02.01-00.40.46:820][302]LogAudioMixer: Display: 7: SideRight
+[2023.02.01-00.40.46:967][302]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO SE USB Gaming Headset)
+[2023.02.01-00.40.46:967][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-00.40.46:967][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-00.40.46:967][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-00.40.46:968][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.01-00.40.46:968][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.01-00.40.46:968][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.01-00.40.46:969][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.01-00.40.46:969][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.01-00.40.46:969][302]LogInit: FAudioDevice initialized.
+[2023.02.01-00.40.46:969][302]LogAudio: Display: Audio Device (ID: 4) registered with world 'Test'.
+[2023.02.01-00.40.46:976][302]LogLoad: Game class is 'BP_GMPotato_C'
+[2023.02.01-00.40.46:977][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2023.01.31-18.40.46
+[2023.02.01-00.40.46:977][302]LogWorld: Bringing up level for play took: 0.000393
+[2023.02.01-00.40.46:977][302]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.02.01-00.40.46:979][302]PIE: Server logged in
+[2023.02.01-00.40.46:980][302]PIE: Play in editor total start time 0.24 seconds.
+[2023.02.01-00.40.58:196][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.40.58:196][644]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Test
+[2023.02.01-00.40.58:196][644]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-00.40.58:196][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.40.58:206][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-00.40.58:225][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-00.40.58:254][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-00.40.58:254][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.40.58:256][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-00.40.58:263][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.02.01-00.40.58:289][645]LogPlayLevel: Display: Destroying online subsystem :Context_10
